@@ -324,3 +324,6 @@ MIT © Zenith Protocol Contributors
 
 <!-- handsoff-issue-386 -->
 - #386: OpenAPI spec is parsed and validated on every server start
+
+<!-- handsoff-issue-387 -->
+- #387: Public API returns 404 for unknown routes instead of a structured error body
